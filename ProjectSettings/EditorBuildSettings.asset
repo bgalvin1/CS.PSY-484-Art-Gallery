@@ -8,4 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Art Gallery.unity
     guid: 4d67a9bffd7f48745a431f4635c74281
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8f9af67b30bf19743819a5d02c3c6fe9, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 8664174f70885b446ae5d70887fc530b, type: 2}
